@@ -12,3 +12,4 @@ http://lzyblog.com/2015/07/01/-置顶-Android开源库的研究系列/
 https://github.com/simple-android-framework-exchange/android_design_patterns_analysis
 https://github.com/bboyfeiyu/android-tech-frontier/tree/master/others/FaceBook推出的Android图片加载库-Fresco
 - Android学习 http://www.zhihu.com/question/29311235
+- 1元钱的QQ 3177918137 mxcw5534
