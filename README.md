@@ -25,3 +25,4 @@ https://github.com/bboyfeiyu/android-tech-frontier/tree/master/others/FaceBook�
 初级版: 36Q3Y-BBT84-MGJ3H-FT7VD-FG72J
 - 知乎 人生意义 折叠答案中 http://www.zhihu.com/question/24561532
 - 如何将人用财富榜的名字划成等级 http://www.zhihu.com/question/21734625
+- 开源客户端 Coding https://coding.net/u/coding/p/Coding-Android/git
