@@ -27,3 +27,5 @@ https://github.com/bboyfeiyu/android-tech-frontier/tree/master/others/FaceBook�
 - 如何将人用财富榜的名字划成等级 http://www.zhihu.com/question/21734625
 - 开源客户端 Coding https://coding.net/u/coding/p/Coding-Android/git
 - jar包的下载 http://search.maven.org/#search|ga|1|
+- Android开发者 http://stormzhang.com/
+- 比较好看的个人博客 http://blog.chengbo.net/
