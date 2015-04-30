@@ -29,3 +29,6 @@ https://github.com/bboyfeiyu/android-tech-frontier/tree/master/others/FaceBook�
 - jar包的下载 http://search.maven.org/#search|ga|1|
 - Android开发者 http://stormzhang.com/
 - 比较好看的个人博客 http://blog.chengbo.net/
+- 开源库整理 http://www.trinea.cn/
+- 94年的学生进微信 http://blog.csdn.net/hitwhylz?viewmode=contents
+- 免费vpn http://www.u9l.net/
