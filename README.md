@@ -32,3 +32,4 @@ https://github.com/bboyfeiyu/android-tech-frontier/tree/master/others/FaceBook�
 - 开源库整理 http://www.trinea.cn/
 - 94年的学生进微信 http://blog.csdn.net/hitwhylz?viewmode=contents
 - 免费vpn http://www.u9l.net/
+- xmpp 相关技术博客 http://blog.csdn.net/h7870181?viewmode=contents
