@@ -33,3 +33,7 @@ https://github.com/bboyfeiyu/android-tech-frontier/tree/master/others/FaceBook�
 - 94年的学生进微信 http://blog.csdn.net/hitwhylz?viewmode=contents
 - 免费vpn http://www.u9l.net/
 - xmpp 相关技术博客 http://blog.csdn.net/h7870181?viewmode=contents
+- 漂亮的自我博客 http://www.qiujuer.net/
+- 面试参考 http://blog.csdn.net/mmc_maodun/article/list/1
+- 百度的前端女程序员 http://www.bokeyy.com/cv
+- 中兴到网易 http://blog.csdn.net/yanzi1225627?viewmode=contents
