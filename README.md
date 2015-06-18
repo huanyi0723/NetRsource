@@ -37,3 +37,4 @@ https://github.com/bboyfeiyu/android-tech-frontier/tree/master/others/FaceBook�
 - 面试参考 http://blog.csdn.net/mmc_maodun/article/list/1
 - 百度的前端女程序员 http://www.bokeyy.com/cv
 - 中兴到网易 http://blog.csdn.net/yanzi1225627?viewmode=contents
+- 一些程序员的简历 http://www.rpoin.com/piclist/?63_1.html
